@@ -4,7 +4,7 @@ layout: default
 
 # The Antidote
 
-A cocktail for our troubled Coronavirus times. 
+A cocktail for our troubled Coronavirus times. From my philosopher friend.
 
 * 3 parts rye whiskey
 * 1/2 part Anisette
